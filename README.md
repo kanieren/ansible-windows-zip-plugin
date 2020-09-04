@@ -1,0 +1,1 @@
+# ansible-windows-zip-plugin
